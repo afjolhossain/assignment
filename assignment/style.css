@@ -1,0 +1,133 @@
+body{
+    font-family: 'Bona Nova', serif;
+    margin: 0;
+ }
+   
+h1{
+    font-size: 50px;
+    font-weight: 700;
+    
+}
+p{
+    font-size: 25px;
+    font-weight: 700;
+    color: rgb(63, 42, 14);
+}
+.color{
+   color: rgb(202, 152, 16);
+}
+.section-1{
+    background-image:url(image/Frame\ 58.jpg);
+    width:100%;
+    
+}
+.top-portion{
+    display: flex;
+    margin-left: 10%;}
+
+.top-half{
+    height: 500PX;
+    width: 500PX;
+    padding-bottom: 24px;
+    margin-left: 12px}
+
+#img{
+    width: 503px;
+    height: 503px;
+    background-position: right;
+    margin-top: 5%;
+    margin-left: 23%
+}
+.button{
+    text-decoration: none;
+    background-color: rgb(194, 148, 102);
+    height:200px;
+    width: 250px;
+    border: 8px solid rgba(58, 134, 134, 0.849);
+    border-radius: 25%;
+    font-size: 30px;
+    font-weight: 700;
+}
+.section-2{
+   width: 100%; 
+}
+.second-portion{
+    display: flex;
+    width: 500px;
+    height: 500px; 
+}
+.second-portion-half{
+    width: 500px;
+    height: 400px;
+}
+.second-part{
+    display: flex;
+    width: 100%;
+    height: 100%;
+}
+.second-part-half{
+    width: 50%;
+    height: 50%;
+    padding-bottom:5%;
+    margin:5% 5%;}
+.section-3{
+    width: 100%;
+}
+.my-recipies{
+    height: 300px;
+    width:400px;
+    margin-left: 40%;  
+}
+.Recipie-Title{  
+     display:flex; 
+     width: 600px;
+     margin-left: 10%   
+}
+.img-r{
+    width: 400px;
+    height: 450px;
+    margin: 6%;
+    border: 15px solid rgba(223, 223, 236, 0.863);
+    border-radius:20px;}
+
+.pic{
+    width: 300px;
+    height: 240px;
+}
+ 
+h3{
+     margin-left: 25%;
+}
+.men{ width: 200px;
+    height: 150px;
+    padding-left: 15%;
+}
+.full-frame{
+    background-color: thistle;
+    display: flex;
+    width: 85%;
+    height: 200px;
+    border: 5% solid rgb(34, 17, 17);
+    border-radius:10px;
+    margin-left: 7%;  
+}
+.footer{
+    background-color: rgb(245, 235, 245);
+    width: 100%;
+    height: 200px;
+    border: 5% solid rgb(150, 29, 29);
+    border-radius:10px;
+    color: tomato;
+       
+}
+.network{
+color: rgb(26, 23, 20);
+margin-left: 30%;
+padding-bottom: 5%;
+
+}
+
+
+
+
+    
